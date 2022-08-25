@@ -64,16 +64,18 @@ header .contenedor6 ul li a:hover {
 
 .galeria img {
     vertical-align: auto;
-    width: 400px;
+    width: 23%;
     margin: 20px;
     padding: 5px;
     opacity:0.5;
     border: 1px solid #484848;
+    cursor: pointer;
 }
 
 .galeria img:hover {
     border: 1px solid #fff;
     opacity: 1;
+
 }
 
 footer {
