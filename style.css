@@ -70,11 +70,13 @@ header .contenedor6 ul li a:hover {
     opacity:0.5;
     border: 1px solid #484848;
     cursor: pointer;
+    transition: all 0.5s;
 }
 
 .galeria img:hover {
     border: 1px solid #fff;
     opacity: 1;
+    transform: scale(1.09);
 
 }
 
